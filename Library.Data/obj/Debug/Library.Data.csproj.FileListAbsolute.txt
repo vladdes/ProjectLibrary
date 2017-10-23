@@ -1,0 +1,13 @@
+C:\Users\unhol\Documents\Visual Studio 2017\Projects\Library\Library.Data\bin\Library.Data.dll.config
+C:\Users\unhol\Documents\Visual Studio 2017\Projects\Library\Library.Data\bin\Library.Data.dll
+C:\Users\unhol\Documents\Visual Studio 2017\Projects\Library\Library.Data\bin\Library.Data.pdb
+C:\Users\unhol\Documents\Visual Studio 2017\Projects\Library\Library.Data\bin\EntityFramework.dll
+C:\Users\unhol\Documents\Visual Studio 2017\Projects\Library\Library.Data\bin\EntityFramework.SqlServer.dll
+C:\Users\unhol\Documents\Visual Studio 2017\Projects\Library\Library.Data\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\unhol\Documents\Visual Studio 2017\Projects\Library\Library.Data\bin\EntityFramework.xml
+C:\Users\unhol\Documents\Visual Studio 2017\Projects\Library\Library.Data\bin\EntityFramework.SqlServer.xml
+C:\Users\unhol\Documents\Visual Studio 2017\Projects\Library\Library.Data\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\unhol\Documents\Visual Studio 2017\Projects\Library\Library.Data\obj\Debug\Library.Data.csprojResolveAssemblyReference.cache
+C:\Users\unhol\Documents\Visual Studio 2017\Projects\Library\Library.Data\obj\Debug\Library.Data.csproj.CoreCompileInputs.cache
+C:\Users\unhol\Documents\Visual Studio 2017\Projects\Library\Library.Data\obj\Debug\Library.Data.dll
+C:\Users\unhol\Documents\Visual Studio 2017\Projects\Library\Library.Data\obj\Debug\Library.Data.pdb
